@@ -4,6 +4,14 @@ import java.lang.Math;
 
 import org.junit.Test;
 
+/*
+ * @author Latif Fetahaj
+ * @version 1.0
+ *
+ * Time Complexity - O(n)
+ * Space Complexity - O(n)
+ */
+
 public class SquareArray {
 
     public SquareArray(){
