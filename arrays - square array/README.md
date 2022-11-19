@@ -1,1 +1,0 @@
-Given a sorted array in non-decreasing order, return an array of squares of each number, also in non-decreasing order.
